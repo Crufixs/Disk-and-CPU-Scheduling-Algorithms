@@ -10,6 +10,10 @@ For Disk Scheduling, four algorithms were implemented:
 *   Shortest Seek Time First (SSTF)
 *   SCAN
 *   LOOK
+
+## Contribution
+*   The algorithms were distrubted evenly among the groupmates and I was responsible for implementing the SCAN and LOOK Disk scheduling algorithms. I was also responsible for compiling and organizing printing the outputs in order to make the project cohesive.
+
 ## Implementation
 The project was implemented using the java programming language and coded through the Netbeans 8.2 IDE. 
 
